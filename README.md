@@ -1,2 +1,3 @@
-Hola mundo!
-theme: jekyll-theme-minimal
+#Hola mundo!
+
+#theme: jekyll-theme-minimal
